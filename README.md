@@ -1,4 +1,4 @@
-### Hi there 👋
+# 이름: 조민솔
 
 ## My major is Japanese Interpretaion and Translation. And my second major is International Finance.
 
