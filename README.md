@@ -12,6 +12,7 @@
 2. 퍼스널 컬러가 여쿨일까 봄웜일까? 모르겠다.
 
 `일본어와 금융을 활용하는 프론트개발자` 가 되고 싶다.
+그냥 `멀티 스페셜리스트` 가 되고 싶다.
 
 <!--
 **minsoll/minsoll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
