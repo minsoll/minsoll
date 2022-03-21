@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+## My major is Japanese Interpretaion and Translation. And my second major is International Finance.
+
+* My brithady is _May 1st_.
+
 <!--
 **minsoll/minsoll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
